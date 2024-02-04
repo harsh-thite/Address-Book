@@ -1,1 +1,2 @@
 # Address-Book
+This repository hosts an address book application built using Tkinter, a Python GUI library. The application provides a convenient interface for users to manage contact information, including adding, editing, and organizing contact names, phone numbers, and email addresses. Whether for personal or business use, this Tkinter-based address book offers a simple yet powerful solution. Contributions and feedback are encouraged to enhance the features and usability of the application.
